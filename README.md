@@ -1,5 +1,5 @@
-Olá! 👋 Me chamo Bruno
-=======================
+Olá! 👋 Meu nome é Bruno
+=========================
 
 Sou estudante de Desenvolvimento Web FullStack na Trybe
 
