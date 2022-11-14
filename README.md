@@ -1,4 +1,4 @@
-Olá! 👋 Meu nome é Bruno
+Olá! Meu nome é Bruno
 =========================
 
 Sou estudante de Desenvolvimento Web FullStack na Trybe
